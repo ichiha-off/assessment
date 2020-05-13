@@ -1,0 +1,18 @@
+body{
+    background-color:  #04A6EB;
+    color:  #FDFFFF;
+    width: 500px;
+    margin-right: auto;
+    /*外側（右）の余白の設定。autoだと自動で中央寄せ。*/
+    margin-left: auto;
+    }
+button{
+    padding: 5px 20px;
+    /*境界線より内側の余白の設定。最初が上下、次が左右*/
+    background-color: #337ab7;
+    border-style: #000000;
+    color: #FDFFFF;
+}
+input{
+    height: 20px;
+}
